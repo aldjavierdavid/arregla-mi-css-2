@@ -3,3 +3,8 @@
 strong.destination__spain {
     color: red;
 }
+
+section#hero div#hero-content h1,p,a {
+    color: red;
+}
+     
